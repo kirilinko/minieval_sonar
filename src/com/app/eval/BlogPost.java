@@ -1,3 +1,5 @@
+package com.app.eval;
+
 public class BlogPost {
     public static void main(String[] args) {
         String[] postContents = {
